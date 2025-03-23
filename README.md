@@ -1,3 +1,3 @@
 # postmanLib
-## Useful JS libs can be used in Postman.
+## Useful JS libs for Postman.
 ### 1. ForgeJS
